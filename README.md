@@ -9,9 +9,8 @@ https://gitlab.dsolab.io/scv-content/inspec/apache/httpd_2.4x_server.git
 https://gitlab.dsolab.io/scv-content/inspec/apache/httpd_2.4x_site.git
 
 So 
-`
+```
   $ git clone https://gitlab.dsolab.io/scv-content/inspec/apache/httpd_2.4x_server.git
-  $ git https://gitlab.dsolab.io/scv-content/inspec/apache/httpd_2.4x_site.git
+  $ git clone https://gitlab.dsolab.io/scv-content/inspec/apache/httpd_2.4x_site.git
 
-
-`
+```
