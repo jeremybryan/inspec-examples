@@ -14,3 +14,15 @@ So
   $ git clone https://gitlab.dsolab.io/scv-content/inspec/apache/httpd_2.4x_site.git
 
 ```
+
+First 
+
+``` 
+ $ runHttpd.sh
+```
+
+Then 
+
+```
+$ runInspecContainer.sh
+```
