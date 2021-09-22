@@ -1,0 +1,7 @@
+---
+lockfile_version: 1
+depends:
+- name: http_2.4x_server
+  resolved_source:
+    path: "/share/httpd_2.4x_server"
+  version_constraints: []

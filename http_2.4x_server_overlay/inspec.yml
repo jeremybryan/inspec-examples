@@ -1,0 +1,11 @@
+name: wrapper-example
+title: Profile Inheritance Example
+maintainer: Jeremy Bryan
+copyright: NoWay Software
+copyright_email: noone@noway.io
+license: Apache-2.0
+summary: This profile shows how controls from other profiles can be inherited, executed, and modified as needed.
+version: 0.1.0
+depends:
+ - name: http_2.4x_server 
+   path: ../httpd_2.4x_server
